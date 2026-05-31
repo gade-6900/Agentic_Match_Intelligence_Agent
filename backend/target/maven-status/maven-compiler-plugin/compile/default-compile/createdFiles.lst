@@ -1,0 +1,15 @@
+com\ipl\assistant\model\MatchScore.class
+com\ipl\assistant\model\MatchInfo.class
+com\ipl\assistant\controller\MatchController.class
+com\ipl\assistant\repository\MatchBallRepository.class
+com\ipl\assistant\service\MatchSimulationService.class
+com\ipl\assistant\model\PlayerStats.class
+com\ipl\assistant\service\GeminiService.class
+com\ipl\assistant\repository\MatchScoreRepository.class
+com\ipl\assistant\config\WebConfig.class
+com\ipl\assistant\service\MatchService$SquadPlayer.class
+com\ipl\assistant\IplAssistantApplication.class
+com\ipl\assistant\service\MatchService.class
+com\ipl\assistant\repository\PlayerStatsRepository.class
+com\ipl\assistant\model\MatchBall.class
+com\ipl\assistant\repository\MatchInfoRepository.class

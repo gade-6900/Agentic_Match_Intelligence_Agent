@@ -1,0 +1,14 @@
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\config\WebConfig.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\controller\MatchController.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\IplAssistantApplication.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\model\MatchBall.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\model\MatchInfo.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\model\MatchScore.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\model\PlayerStats.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\repository\MatchBallRepository.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\repository\MatchInfoRepository.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\repository\MatchScoreRepository.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\repository\PlayerStatsRepository.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\service\GeminiService.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\service\MatchService.java
+C:\Users\gadep\Desktop\Agentic_IPL\backend\src\main\java\com\ipl\assistant\service\MatchSimulationService.java

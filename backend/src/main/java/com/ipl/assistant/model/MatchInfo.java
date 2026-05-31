@@ -19,6 +19,12 @@ public class MatchInfo {
     private Integer targetRuns;
     private Integer currentInnings; // 1 or 2
 
+    @Column(columnDefinition = "TEXT")
+    private String aiPreview;
+
+    @Column(columnDefinition = "TEXT")
+    private String aiSummary;
+
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
     public String getTeam1() { return team1; }
@@ -39,4 +45,8 @@ public class MatchInfo {
     public void setTargetRuns(Integer targetRuns) { this.targetRuns = targetRuns; }
     public Integer getCurrentInnings() { return currentInnings; }
     public void setCurrentInnings(Integer currentInnings) { this.currentInnings = currentInnings; }
+    public String getAiPreview() { return aiPreview; }
+    public void setAiPreview(String aiPreview) { this.aiPreview = aiPreview; }
+    public String getAiSummary() { return aiSummary; }
+    public void setAiSummary(String aiSummary) { this.aiSummary = aiSummary; }
 }
